@@ -3,6 +3,7 @@
 
 #custom directory ignore
 hftdata/
+janestreet/
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
